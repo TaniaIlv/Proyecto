@@ -1,0 +1,41 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl 04___Default
+Ns 0.000000
+Ka 0.909800 0.909800 0.909800
+Kd 0.909800 0.909800 0.909800
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd eye_p.jpg
+map_Ka eye_p.jpg
+
+newmtl body
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.721700 0.565200 0.505200
+Ks 0.603000 0.603000 0.603000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd pacient_body.jpg
+map_Bump -bm 0.300000 Bump.tga
+map_Ka pacient_body.jpg
+
+newmtl lashes
+Ns 45.098039
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.333000 0.333000 0.333000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd lashes.jpg
+map_Ka lashes.jpg
+map_Ke lashes.jpg
+map_d lases_opc.jpg
